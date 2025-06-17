@@ -1,5 +1,7 @@
 dataset_misinfo/
 
+Fake_News_Detection/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
